@@ -1,0 +1,9 @@
+{
+    "name": "roman204/magento-kick-butt-search",
+    "type": "magento-module",
+    "description": "Magento Search fixes",
+    "homepage": "https://github.com/roman204/magento-kick-butt-search",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "dev-master"
+    }
+}
